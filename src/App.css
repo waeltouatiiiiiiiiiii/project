@@ -1,0 +1,31 @@
+.text{
+  padding-top: 400px;
+  color: rgb(50, 160, 168);
+  max-width: 400px;
+  margin-left: 500px; 
+  margin-bottom: 20px;
+  
+}
+.photo{
+  padding-top: 30px;
+  margin-left: 150px;
+  
+}
+.button{
+  margin-right: 700px;
+  border-radius: 30px;
+  background-color: rgb(0, 255, 213);
+}
+.border{
+  border:solid 4px black ;
+  margin-bottom:20px ;
+}
+.card{
+  height: 320px;
+}
+.botton{
+  text-align: left;
+  position: absolute;
+  bottom: 0;
+  left:0
+}
